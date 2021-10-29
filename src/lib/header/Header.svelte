@@ -19,6 +19,7 @@
 			<li class:active={$page.path === '/day2'}><a sveltekit:prefetch href="/day2">D2</a></li>
 			<li class:active={$page.path === '/day3'}><a sveltekit:prefetch href="/day3">D3</a></li>
 			<li class:active={$page.path === '/day4'}><a sveltekit:prefetch href="/day4">D4</a></li>
+			<li class:active={$page.path === '/day5'}><a sveltekit:prefetch href="/day5">D5</a></li>
 
 			<li class:active={$page.path === '/day1zoom/pic1zoom'}></li>
 			<li class:active={$page.path === '/day1zoom/pic2zoom'}></li>
@@ -62,6 +63,58 @@
 			<li class:active={$page.path === '/day3zoom/pic12zoom'}></li>
 			<li class:active={$page.path === '/day3zoom/pic13zoom'}></li>
 			<li class:active={$page.path === '/day3zoom/pic14zoom'}></li>
+
+			<li class:active={$page.path === '/day4zoom/p1zoom'}></li>
+			<li class:active={$page.path === '/day4zoom/p2zoom'}></li>
+			<li class:active={$page.path === '/day4zoom/p3zoom'}></li>
+			<li class:active={$page.path === '/day4zoom/p4zoom'}></li>
+			<li class:active={$page.path === '/day4zoom/p5zoom'}></li>
+			<li class:active={$page.path === '/day4zoom/p6zoom'}></li>
+			<li class:active={$page.path === '/day4zoom/p7zoom'}></li>
+			<li class:active={$page.path === '/day4zoom/p2zoom'}></li>
+			<li class:active={$page.path === '/day4zoom/p8zoom'}></li>
+			<li class:active={$page.path === '/day4zoom/p9zoom'}></li>
+			<li class:active={$page.path === '/day4zoom/p10zoom'}></li>
+			<li class:active={$page.path === '/day4zoom/p11zoom'}></li>
+			<li class:active={$page.path === '/day4zoom/p12zoom'}></li>
+			<li class:active={$page.path === '/day4zoom/p13zoom'}></li>
+			<li class:active={$page.path === '/day4zoom/p14zoom'}></li>
+			<li class:active={$page.path === '/day4zoom/p15zoom'}></li>
+			<li class:active={$page.path === '/day4zoom/p16zoom'}></li>
+			<li class:active={$page.path === '/day4zoom/p17zoom'}></li>
+			<li class:active={$page.path === '/day4zoom/p18zoom'}></li>
+			<li class:active={$page.path === '/day4zoom/p19zoom'}></li>
+			<li class:active={$page.path === '/day4zoom/p20zoom'}></li>
+			<li class:active={$page.path === '/day4zoom/p21zoom'}></li>
+
+
+
+			<li class:active={$page.path === '/day5zoom/p1zoom'}></li>
+			<li class:active={$page.path === '/day5zoom/p2zoom'}></li>
+			<li class:active={$page.path === '/day5zoom/p3zoom'}></li>
+			<li class:active={$page.path === '/day5zoom/p4zoom'}></li>
+			<li class:active={$page.path === '/day5zoom/p5zoom'}></li>
+			<li class:active={$page.path === '/day5zoom/p6zoom'}></li>
+			<li class:active={$page.path === '/day5zoom/p7zoom'}></li>
+			<li class:active={$page.path === '/day5zoom/p2zoom'}></li>
+			<li class:active={$page.path === '/day5zoom/p8zoom'}></li>
+			<li class:active={$page.path === '/day5zoom/p9zoom'}></li>
+			<li class:active={$page.path === '/day5zoom/p10zoom'}></li>
+			<li class:active={$page.path === '/day5zoom/p11zoom'}></li>
+			<li class:active={$page.path === '/day5zoom/p12zoom'}></li>
+			<li class:active={$page.path === '/day5zoom/p13zoom'}></li>
+			<li class:active={$page.path === '/day5zoom/p14zoom'}></li>
+			<li class:active={$page.path === '/day5zoom/p15zoom'}></li>
+			<li class:active={$page.path === '/day5zoom/p16zoom'}></li>
+			<li class:active={$page.path === '/day5zoom/p17zoom'}></li>
+			<li class:active={$page.path === '/day5zoom/p18zoom'}></li>
+			<li class:active={$page.path === '/day5zoom/p19zoom'}></li>
+			<li class:active={$page.path === '/day5zoom/p20zoom'}></li>
+			<li class:active={$page.path === '/day5zoom/p21zoom'}></li>
+			<li class:active={$page.path === '/day5zoom/p22zoom'}></li>
+			<li class:active={$page.path === '/day5zoom/p23zoom'}></li>
+
+
 		</ul>
 		<svg viewBox="0 0 2 3" aria-hidden="true">
 			<path d="M0,0 L0,3 C0.5,3 0.5,3 1,2 L2,0 Z" />
