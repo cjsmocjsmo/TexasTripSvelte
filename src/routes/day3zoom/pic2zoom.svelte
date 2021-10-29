@@ -1,0 +1,9 @@
+<script>
+    import img2 from '$lib/images/20211007/20211007_113327-2.jpg';
+</script>
+
+<img src={img2} alt="fuckit">
+
+<style>
+
+</style>
