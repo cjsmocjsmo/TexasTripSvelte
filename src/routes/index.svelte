@@ -27,6 +27,7 @@
 
 	.column img {
 		margin-top: 8px;
+		border-radius: 15%;
 	}
 
 	@media screen and (max-width: 420px) {

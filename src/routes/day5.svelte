@@ -63,6 +63,10 @@
 		margin-top: 8px;
 	}
 
+    img {
+        border-radius: 15%;
+    }
+
 	@media screen and (max-width: 420px) {
 		img {
 			width: 120px;

@@ -26,7 +26,7 @@
     <a href="/day3zoom/pic11zoom"><img src={pic11} alt="fuckit"></a>
     <a href="/day3zoom/pic13zoom"><img src={pic13} alt="fuckit"></a>
 </div>
-<div>
+<div >
     <a href="/day3zoom/pic3zoom"><img src={pic3} alt="fuckit"></a>
     <a href="/day3zoom/pic4zoom"><img src={pic4} alt="fuckit"></a>
     <a href="/day3zoom/pic6zoom"><img src={pic6} alt="fuckit"></a>
@@ -46,6 +46,10 @@
 	.column img {
 		margin-top: 8px;
 	}
+
+    img {
+        border-radius: 15%;
+    }
 
 	@media screen and (max-width: 420px) {
 		img {
