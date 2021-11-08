@@ -10,7 +10,7 @@
 <svelte:head>
 	<title>Home</title>
 </svelte:head>
-
+<a href="https://frontpage-czi.pages.dev/" ><button>Back</button></a>
 <div class="column">
 	<a href="/day1zoom/pic1zoom"><img src={pic1thumb} alt="fuckit"></a>
 	<a href="/day1zoom/pic2zoom"><img src={pic2thumb} alt="fuckit"></a>
@@ -18,8 +18,18 @@
 	<a href="/day1zoom/pic4zoom"><img src={pic4thumb} alt="fuckit"></a>
 	<a href="/day1zoom/pic5zoom"><img src={pic5thumb} alt="fuckit"></a>
 </div>
-
+<a href="https://frontpage-czi.pages.dev/" ><button>Back</button></a>
 <style>
+
+	button {
+        width: 25%;
+		padding: 8px;
+		border-radius: 7px;
+		background-color: white;
+		font-size: 1.25em;
+		color: black;
+    }
+
 	.column {
 		flex: 25%;
 		padding: 0 4px;

@@ -14,9 +14,9 @@
     import pic12 from '$lib/images/20211007/thumbs/20211007_133926_HDR-2thumb.jpg';
     import pic13 from '$lib/images/20211007/thumbs/20211007_113321-2thumb.jpg';
     import pic14 from '$lib/images/20211007/thumbs/20211007_133933_HDR-2thumb.jpg';
-
 </script>
 
+<a href="https://frontpage-czi.pages.dev/" ><button>Back</button></a>
 <div class="column">
     <a href="/day3zoom/pic1zoom"><img src={pic1} alt="fuckit"></a>
     <a href="/day3zoom/pic2zoom"><img src={pic2} alt="fuckit"></a>
@@ -35,9 +35,19 @@
     <a href="/day3zoom/pic12zoom"><img src={pic12} alt="fuckit"></a>
     <a href="/day3zoom/pic14zoom"><img src={pic14} alt="fuckit"></a>
 </div>
-
+<a href="https://frontpage-czi.pages.dev/" ><button>Back</button></a>
 
 <style>
+
+    button {
+        width: 25%;
+		padding: 8px;
+		border-radius: 7px;
+		background-color: white;
+		font-size: 1.25em;
+		color: black;
+    }
+
 	.column {
 		flex: 25%;
 		padding: 0 4px;

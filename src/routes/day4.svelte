@@ -23,6 +23,7 @@
     import p21 from '$lib/images/thumb/20211010_144838_HDR_Thumb.jpg';
 </script>
 
+<a href="https://frontpage-czi.pages.dev/" ><button>Back</button></a>
 <div class='column'>
     <a href="/day4zoom/p1zoom"><img src={ p1 } alt='fuckit'></a>
     <a href="/day4zoom/p2zoom"><img src={ p2 } alt='fuckit'></a>
@@ -36,7 +37,6 @@
     <a href="/day4zoom/p17zoom"><img src={ p17 } alt='fuckit'></a>
     <a href="/day4zoom/p18zoom"><img src={ p18 } alt='fuckit'></a>
     <a href="/day4zoom/p19zoom"><img src={ p19 } alt='fuckit'></a>
-    
 </div>
 <div>
     <a href="/day4zoom/p6zoom"><img src={ p6 } alt='fuckit'></a>
@@ -49,8 +49,19 @@
     <a href="/day4zoom/p20zoom"><img src={ p20 } alt='fuckit'></a>
     <a href="/day4zoom/p21zoom"><img src={ p21 } alt='fuckit'></a>
 </div>>
+<a href="https://frontpage-czi.pages.dev/" ><button>Back</button></a>
 
 <style>
+
+    button {
+        width: 25%;
+		padding: 8px;
+		border-radius: 7px;
+		background-color: white;
+		font-size: 1.25em;
+		color: black;
+    }
+
 	.column {
 		flex: 25%;
 		padding: 0 4px;
