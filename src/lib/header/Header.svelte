@@ -15,11 +15,15 @@
 			<path d="M0,0 L1,2 C1.5,3 1.5,3 2,3 L2,0 Z" />
 		</svg>
 		<ul>
+			<li ><a sveltekit:prefetch href="https://frontpage-czi.pages.dev">Home</a></li>
 			<li class:active={$page.path === '/'}><a sveltekit:prefetch href="/">D1</a></li>
 			<li class:active={$page.path === '/day2'}><a sveltekit:prefetch href="/day2">D2</a></li>
 			<li class:active={$page.path === '/day3'}><a sveltekit:prefetch href="/day3">D3</a></li>
 			<li class:active={$page.path === '/day4'}><a sveltekit:prefetch href="/day4">D4</a></li>
 			<li class:active={$page.path === '/day5'}><a sveltekit:prefetch href="/day5">D5</a></li>
+
+			
+
 
 			<li class:active={$page.path === '/day1zoom/pic1zoom'}></li>
 			<li class:active={$page.path === '/day1zoom/pic2zoom'}></li>

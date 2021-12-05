@@ -16,7 +16,7 @@
     import pic14 from '$lib/images/20211007/thumbs/20211007_133933_HDR-2thumb.jpg';
 </script>
 
-<a href="https://frontpage-czi.pages.dev/" ><button>Back</button></a>
+<!-- <a href="https://frontpage-czi.pages.dev/" ><button>Back</button></a> -->
 <div class="column">
     <a href="/day3zoom/pic1zoom"><img src={pic1} alt="fuckit"></a>
     <a href="/day3zoom/pic2zoom"><img src={pic2} alt="fuckit"></a>
@@ -35,7 +35,7 @@
     <a href="/day3zoom/pic12zoom"><img src={pic12} alt="fuckit"></a>
     <a href="/day3zoom/pic14zoom"><img src={pic14} alt="fuckit"></a>
 </div>
-<a href="https://frontpage-czi.pages.dev/" ><button>Back</button></a>
+<a href="https://frontpage-czi.pages.dev/" ><button>Home</button></a>
 
 <style>
 
@@ -44,7 +44,7 @@
 		padding: 8px;
 		border-radius: 7px;
 		background-color: white;
-		font-size: 1.25em;
+		font-size: 1em;
 		color: black;
     }
 
