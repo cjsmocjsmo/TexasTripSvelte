@@ -1,5 +1,5 @@
 <script>
-    import img12 from '$lib/images/20211010/page3/20211010_134950-2.jpg';
+    import img12 from '$lib/images/20211010/page3/20211010_134950-2.webp';
 </script>
 
 <img src={img12} alt="fuckit">

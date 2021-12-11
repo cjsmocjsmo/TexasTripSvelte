@@ -1,26 +1,26 @@
 <script context="module">
     export const prerender = true;
-    import p1 from '$lib/images/thumb/20211010_135004_HDR_Thumb.jpg';
-    import p2 from '$lib/images/thumb/20211010_135059_HDR_Thumb.jpg';
-    import p3 from '$lib/images/thumb/20211010_135105_HDR_Thumb.jpg';
-    import p4 from '$lib/images/thumb/20211010_135110_HDR_Thumb.jpg';
-    import p5 from '$lib/images/thumb/20211010_135116_HDR_Thumb.jpg';
-    import p6 from '$lib/images/thumb/20211010_135534_HDR_Thumb.jpg';
-    import p7 from '$lib/images/thumb/20211010_135537_HDR_Thumb.jpg';
-    import p8 from '$lib/images/thumb/20211010_135541_HDR_Thumb.jpg';
-    import p9 from '$lib/images/thumb/20211010_140035_Thumb.jpg';
-    import p10 from '$lib/images/thumb/20211010_140039_HDR_Thumb.jpg';
-    import p11 from '$lib/images/thumb/20211010_140044_Thumb.jpg';
-    import p12 from '$lib/images/thumb/20211010_140049_HDR_Thumb.jpg';
-    import p13 from '$lib/images/thumb/20211010_140059_HDR_Thumb.jpg';
-    import p14 from '$lib/images/thumb/20211010_140206_HDR_Thumb.jpg';
-    import p15 from '$lib/images/thumb/20211010_140213_HDR_Thumb.jpg';
-    import p16 from '$lib/images/thumb/20211010_140219_HDR_Thumb.jpg';
-    import p17 from '$lib/images/thumb/20211010_140226_HDR_Thumb.jpg';
-    import p18 from '$lib/images/thumb/20211010_140908_HDR_Thumb.jpg';
-    import p19 from '$lib/images/thumb/20211010_140914_HDR_Thumb.jpg';
-    import p20 from '$lib/images/thumb/20211010_144834_HDR_Thumb.jpg';
-    import p21 from '$lib/images/thumb/20211010_144838_HDR_Thumb.jpg';
+    import p1 from '$lib/images/thumb/20211010_135004_HDR_Thumb.webp';
+    import p2 from '$lib/images/thumb/20211010_135059_HDR_Thumb.webp';
+    import p3 from '$lib/images/thumb/20211010_135105_HDR_Thumb.webp';
+    import p4 from '$lib/images/thumb/20211010_135110_HDR_Thumb.webp';
+    import p5 from '$lib/images/thumb/20211010_135116_HDR_Thumb.webp';
+    import p6 from '$lib/images/thumb/20211010_135534_HDR_Thumb.webp';
+    import p7 from '$lib/images/thumb/20211010_135537_HDR_Thumb.webp';
+    import p8 from '$lib/images/thumb/20211010_135541_HDR_Thumb.webp';
+    import p9 from '$lib/images/thumb/20211010_140035_Thumb.webp';
+    import p10 from '$lib/images/thumb/20211010_140039_HDR_Thumb.webp';
+    import p11 from '$lib/images/thumb/20211010_140044_Thumb.webp';
+    import p12 from '$lib/images/thumb/20211010_140049_HDR_Thumb.webp';
+    import p13 from '$lib/images/thumb/20211010_140059_HDR_Thumb.webp';
+    import p14 from '$lib/images/thumb/20211010_140206_HDR_Thumb.webp';
+    import p15 from '$lib/images/thumb/20211010_140213_HDR_Thumb.webp';
+    import p16 from '$lib/images/thumb/20211010_140219_HDR_Thumb.webp';
+    import p17 from '$lib/images/thumb/20211010_140226_HDR_Thumb.webp';
+    import p18 from '$lib/images/thumb/20211010_140908_HDR_Thumb.webp';
+    import p19 from '$lib/images/thumb/20211010_140914_HDR_Thumb.webp';
+    import p20 from '$lib/images/thumb/20211010_144834_HDR_Thumb.webp';
+    import p21 from '$lib/images/thumb/20211010_144838_HDR_Thumb.webp';
 </script>
 
 <!-- <a href="https://frontpage-czi.pages.dev/" ><button>Back</button></a> -->

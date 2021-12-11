@@ -1,19 +1,19 @@
 <script context="module">
     export const prerender = true;
-    import pic1 from '$lib/images/20211007/thumbs/20211006_162736-2thumb.jpg';
-    import pic2 from '$lib/images/20211007/thumbs/20211007_113327-2thumb.jpg';
-    import pic3 from '$lib/images/20211007/thumbs/20211007_133940_HDR-2thumb.jpg';
-    import pic4 from '$lib/images/20211007/thumbs/20211007_133940_HDR-2thumb.jpg';
-    import pic5 from '$lib/images/20211007/thumbs/20211006_163035-2thumb.jpg';
-    import pic6 from '$lib/images/20211007/thumbs/20211007_133750_HDR-2ghumb.jpg';
-    import pic7 from '$lib/images/20211007/thumbs/20211007_133941_HDR-2thumb.jpg';
-    import pic8 from '$lib/images/20211007/thumbs/20211007_113302-2thumb.jpg';
-    import pic9 from '$lib/images/20211007/thumbs/20211007_133819-2thumb.jpg';
-    import pic10 from '$lib/images/20211007/thumbs/20211007_140506_HDR-2thumb.jpg';
-    import pic11 from '$lib/images/20211007/thumbs/20211007_113316-2thumb.jpg';
-    import pic12 from '$lib/images/20211007/thumbs/20211007_133926_HDR-2thumb.jpg';
-    import pic13 from '$lib/images/20211007/thumbs/20211007_113321-2thumb.jpg';
-    import pic14 from '$lib/images/20211007/thumbs/20211007_133933_HDR-2thumb.jpg';
+    import pic1 from '$lib/images/20211007/thumbs/20211006_162736-2thumb.webp';
+    import pic2 from '$lib/images/20211007/thumbs/20211007_113327-2thumb.webp';
+    import pic3 from '$lib/images/20211007/thumbs/20211007_133940_HDR-2thumb.webp';
+    import pic4 from '$lib/images/20211007/thumbs/20211007_133940_HDR-2thumb.webp';
+    import pic5 from '$lib/images/20211007/thumbs/20211006_163035-2thumb.webp';
+    import pic6 from '$lib/images/20211007/thumbs/20211007_133750_HDR-2ghumb.webp';
+    import pic7 from '$lib/images/20211007/thumbs/20211007_133941_HDR-2thumb.webp';
+    import pic8 from '$lib/images/20211007/thumbs/20211007_113302-2thumb.webp';
+    import pic9 from '$lib/images/20211007/thumbs/20211007_133819-2thumb.webp';
+    import pic10 from '$lib/images/20211007/thumbs/20211007_140506_HDR-2thumb.webp';
+    import pic11 from '$lib/images/20211007/thumbs/20211007_113316-2thumb.webp';
+    import pic12 from '$lib/images/20211007/thumbs/20211007_133926_HDR-2thumb.webp';
+    import pic13 from '$lib/images/20211007/thumbs/20211007_113321-2thumb.webp';
+    import pic14 from '$lib/images/20211007/thumbs/20211007_133933_HDR-2thumb.webp';
 </script>
 
 <!-- <a href="https://frontpage-czi.pages.dev/" ><button>Back</button></a> -->

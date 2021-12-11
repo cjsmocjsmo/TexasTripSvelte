@@ -1,5 +1,5 @@
 <script>
-    import img1 from '$lib/images/20211010/page1/20211004_093341-2.jpg';
+    import img1 from '$lib/images/20211010/page1/20211004_093341-2.webp';
 </script>
 
 
