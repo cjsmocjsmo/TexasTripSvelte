@@ -1,10 +1,10 @@
 <script context="module">
 	export const prerender = true;
-	import pic1thumb from '../lib/images/thumb/20211003_131040_Thumb.webp';
-	import pic2thumb from '$lib/images/thumb/20211003_131117_Thumb.webp';
-	import pic3thumb from '$lib/images/thumb/20211003_135914_Thumb.webp';
-	import pic4thumb from '$lib/images/thumb/20211003_131052_Thumb.webp';
-	import pic5thumb from '$lib/images/thumb/20211003_131139_Thumb.webp';
+	import pic1thumb from '../lib/images/thumb/20211003_131040_Thumb.jpg';
+	import pic2thumb from '$lib/images/thumb/20211003_131117_Thumb.jpg';
+	import pic3thumb from '$lib/images/thumb/20211003_135914_Thumb.jpg';
+	import pic4thumb from '$lib/images/thumb/20211003_131052_Thumb.jpg';
+	import pic5thumb from '$lib/images/thumb/20211003_131139_Thumb.jpg';
 </script>
 
 <svelte:head>
